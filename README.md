@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/lipe-01">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lipe-01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lipe-01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&token=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"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipe-01&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
